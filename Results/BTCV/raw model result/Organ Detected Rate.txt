@@ -1,0 +1,7 @@
+liver: 1.0
+kidney right : 1.0
+kidney left: 1.0
+bladder: 0.8214285714285714
+spleen: 1.0
+pancreas: 1.0
+global: 1.0

@@ -1,0 +1,5 @@
+liver: 0.0
+kidney right : 0.55
+kidney left: 0.45
+spleen: 0.55
+global: 0.3875
